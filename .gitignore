@@ -1,0 +1,7 @@
+MBPrivacyPermission.xcodeproj/xcuserdata/
+MBPrivacyPermission.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+MBPrivacyPermission.xcodeproj/project.xcworkspace/xcuserdata/
